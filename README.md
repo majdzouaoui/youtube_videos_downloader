@@ -31,5 +31,3 @@ This is a simple youtube videos downloader mini project written in pure Python, 
 
 ---
 
-# Run the program
-python QR_code_generator.py
